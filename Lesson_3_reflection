@@ -1,0 +1,31 @@
+1 - When would you want to use a remote repository rather than keeping all your work local?
+  - Quando você gostaria de usar um repositório remoto em vez de manter todo o seu trabalho local? 
+  
+  R: Para ser possível acessar de diferentes locais caso esteja sem meu computador, em viagens ou quando surgir oportunidade de mostrar meu trabalho para outras pessoas. 
+  
+2 - Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  - Por que você pode querer sempre extrair as alterações manualmente em vez de manter o Git automaticamente atualizado com o seu repositório remoto?
+  
+  R: Em muitos casos prefiro executar um programa para ver se ocorreu tudo como eu queria, então é interessante extrair as alterações manualmente. 
+  
+3 - Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+  - Descreva as diferenças entre bifurcações, clones e ramificações. Quando você usar um em vez de outro?
+  
+  R:Bifurcações: Cria uma copia dos commits de outro usuário para dentro do seu repositório;
+	Clones: Torna possível criar uma cópia dos commit exatamente iguais;
+	Ramos: Criar uma versão alterada da original, a qual não causa interferência ao commit de origem;
+  
+4 - What is the benefit of having a copy of the last known state of the remote stored locally?
+  - Qual é o benefício de ter uma cópia do último estado conhecido do controle remoto? armazenado localmente?
+  
+  R: Caso a minha nova modificação não satisfaça o que eu quero, é possível acessar o programa sem esta modificação.
+  
+5 - How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+  - Como você colaboraria sem usar o Git ou o GitHub? O que seria mais fácil? e o que seria mais difícil?
+
+  R: Para compartilhar informações. A parte fácil é que todos tem acesso aos meus trabalhos, porém pode ser difícil para pessoa entender do que se trata. Por isso é interassante colocar comentários em cada pasta. 
+  
+6 - When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+  - Quando você gostaria de fazer alterações em um ramo separado em vez de diretamente em mestre? Quais os benefícios de cada abordagem?
+  
+  R: A vantagem é poder alterar uma parte separada, sem modificar todo o trabalho. 
