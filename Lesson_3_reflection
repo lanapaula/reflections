@@ -29,3 +29,8 @@
   - Quando você gostaria de fazer alterações em um ramo separado em vez de diretamente em mestre? Quais os benefícios de cada abordagem?
   
   R: A vantagem é poder alterar uma parte separada, sem modificar todo o trabalho. 
+
+Pergunta adicional:
+  - Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+  
+  R: Porque talvez eu ainda não queira fazer modificações. 
